@@ -70,17 +70,17 @@ export const skills = [
       {
         name: "Python",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+          "https://imgs.search.brave.com/g5R0l2nLTVyHnSigkqLVGyyNGfsUcJ6DgGfAy3F0OT4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvcHl0/aG9uLTUtbG9nby1w/bmctdHJhbnNwYXJl/bnQucG5n",
       },
       {
         name: "MySQL",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          "https://imgs.search.brave.com/6lHxBgRoJ7Yy405ITGS8dhRMVHPgaXtdT-l8BGSmBM8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9NeVNRTC9N/eVNRTC1Mb2dvLndp/bmUuc3Zn.svg",
       },
       {
         name: "MongoDB",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+          "https://imgs.search.brave.com/oMsRY0nkSCZc4kndmlHr1k4lJl2R8bnOm582hl24tqM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kd2ds/b2dvLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNy8xMi9N/b25nb0RCX2xvZ28u/cG5n",
       },
     ],
   },
@@ -90,7 +90,7 @@ export const skills = [
       {
         name: "Java",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://imgs.search.brave.com/B24ikfeN11Ro2NVEaR2CL47MI3vcMtuHlq4BapNh4Q0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMTAvSmF2YV9s/b2dvLTQxNHg3MDAu/cG5n",
       },
       {
         name: "Kotlin",
