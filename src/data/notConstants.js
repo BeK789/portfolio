@@ -8,7 +8,7 @@ export const Bio = {
   description:
     "I am an enthusiastic and adaptable individual, continuously seeking opportunities to expand my skills and tackle fresh endeavors. Fueled by a relentless drive for knowledge, I am committed to producing High-quality outcomes in all my endeavors. Embracing each task with optimism and a proactive approach, I am poised to add significant value and deliver good results.",
   github: "https://github.com/BeK789",
-  resume: "https://drive.google.com/file/d/1U-6vM2tu2ATOmEHbNIfd41m6mOxdTxHn/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1X6rbmGdLQ-Y3QohoBFD0UykcuXzO_Zpi/view?usp=drive_link",
   linkedin: "linkedin.com/in/chandan-boro-a990531b0",
   twitter: "https://twitter.com/",
   insta: "https://www.instagram.com/",
