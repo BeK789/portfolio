@@ -10,7 +10,7 @@ import Skills from './components/skills';
 import Projects from './components/projects';
 import Contact from './components/contact';
 import ProjectDetails from './components/projectDetails';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import Footer from './components/footer';
 
 const Body = styled.div`
