@@ -101,19 +101,12 @@ const Button = styled.a`
     color: ${({ theme }) => theme.text_primary};
     padding: 12px 16px;
     border-radius: 8px;
-    background-color: ${({ theme }) => theme.primary};
-    ${({ dull, theme }) => dull && `
-        background-color: ${theme.bgLight};
-        color: ${theme.text_secondary};
-        &:hover {
-            background-color: ${({ theme }) => theme.bg + 99};
-        }
-    `}
+    background-color: ${({ theme }) => theme.primary + 99};
     cursor: pointer;
     text-decoration: none;
     transition: all 0.5s ease;
     &:hover {
-        background-color: ${({ theme }) => theme.primary + 99};
+        background-color: ${({ theme }) => theme.primary};
     }
     @media only screen and (max-width: 600px) {
         font-size: 12px;
@@ -146,6 +139,9 @@ const index = ({ openModal, setOpenModal }) => {
                     <Desc>{project?.description}</Desc>
                     <ButtonGroup>
                         <Button dull href={project?.github} target='new'>View Code</Button>
+                            {project?.webapp && (
+                                <Button href={project.webapp} target='new'>View Live App</Button>
+                            )}
                     </ButtonGroup>
                 </Wrapper>
             </Container>

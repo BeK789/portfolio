@@ -222,6 +222,62 @@ export const education = [
 
 export const projects = [
   {
+    id: 8,
+    title: "MERN Stack Restraunt Reservation App",
+    description: "A MERN Stack website of a restaurant where customers can book reservations at their convenience. Website displays top dishes, services, cooks and reviews to establish customer trust and satisfaction. ",
+    image:
+      "https://imgs.search.brave.com/I5x_ZOvaCGtO3N759RQ4OT6VT9GJBzFo4HrW0CcfLIo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nY2ZsZWFybmZy/ZWUub3JnL2NvbnRl/bnQvNTVlMDczMGM3/ZGQ0ODE3NDMzMWY1/MTY0XzAxXzE3XzIw/MTQvd2hhdGlzYWNv/bXB1dGVyX2xhcHRv/cF9jb21wdXRlcnMu/anBn",
+    tags: [
+      "React js",
+      "Tailwind CSS",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "REST APIs",
+      "JavaScript",
+    ],
+    category: "web app",
+    github: "https://github.com/BeK789/Restraunt_Reservation",
+    webapp: "https://bek789.github.io/Restraunt_Reservation/",
+  },
+  {
+    id: 9,
+    title: "Modern-React-Bloging App",
+    description: "Blog website using React.js and Tailwind CSS for client side and Express for the server side. Implemented various features such as pagination and categorization for user friendly experience",
+    image:
+      "https://imgs.search.brave.com/I5x_ZOvaCGtO3N759RQ4OT6VT9GJBzFo4HrW0CcfLIo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nY2ZsZWFybmZy/ZWUub3JnL2NvbnRl/bnQvNTVlMDczMGM3/ZGQ0ODE3NDMzMWY1/MTY0XzAxXzE3XzIw/MTQvd2hhdGlzYWNv/bXB1dGVyX2xhcHRv/cF9jb21wdXRlcnMu/anBn",
+    tags: [
+      "React js",
+      "Tailwind CSS",
+      "Expess",
+      "Node",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+    category: "web app",
+    github: "https://github.com/BeK789/react-blog-app",
+    webapp: "https://bek789.github.io/react-blog-app/",
+  },
+  {
+    id: 10,
+    title: "Agency Website",
+    description: "An gency website made using React.js and Tailwind.",
+    image:
+      "https://imgs.search.brave.com/I5x_ZOvaCGtO3N759RQ4OT6VT9GJBzFo4HrW0CcfLIo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nY2ZsZWFybmZy/ZWUub3JnL2NvbnRl/bnQvNTVlMDczMGM3/ZGQ0ODE3NDMzMWY1/MTY0XzAxXzE3XzIw/MTQvd2hhdGlzYWNv/bXB1dGVyX2xhcHRv/cF9jb21wdXRlcnMu/anBn",
+    tags: [
+      "React js",
+      "Tailwind CSS",
+      "HTML",
+      "CSS",
+      "",
+      "JavaScript",
+    ],
+    category: "web app",
+    github: "https://github.com/BeK789/agency-website",
+    webapp: "https://bek789.github.io/agency-website/",
+  },
+  {
     id: 7,
     title: "News App",
     description: "A news app which display the current headlines and news based on category selected eg. National, Sports, Music, etc. The user can customize the theme as they want(light mode and dark mode)",
@@ -236,7 +292,23 @@ export const projects = [
       "JavaScript",
     ],
     category: "web app",
-    github: "https://github.com/BeK789/NewsWeb",
+    github: "https://github.com/BeK789/newsbreak",
+    webapp: "https://bek789.github.io/newsbreak/",
+  },
+  {
+    id: 7,
+    title: "Tvital",
+    description: "Tvital A mobile app for vet doctors to monitor ECG, O2, and CO2 charts on their phones made using Flutter",
+    image:
+      "https://imgs.search.brave.com/I5x_ZOvaCGtO3N759RQ4OT6VT9GJBzFo4HrW0CcfLIo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nY2ZsZWFybmZy/ZWUub3JnL2NvbnRl/bnQvNTVlMDczMGM3/ZGQ0ODE3NDMzMWY1/MTY0XzAxXzE3XzIw/MTQvd2hhdGlzYWNv/bXB1dGVyX2xhcHRv/cF9jb21wdXRlcnMu/anBn",
+    tags: [
+      "Flutter",
+      "Dart",
+      "Figma"
+    ],
+    category: "mobile app",
+    github: "https://github.com/BeK789/Tvital_fc",
+    webapp: "https://bek789.github.io/Tvital/",
   },
   {
     id: 0,
@@ -285,6 +357,7 @@ export const projects = [
     ],
     category: "mobile app",
     github: "https://github.com/BeK789/CarServicingApp_Flutter",
+    webapp: "https://bek789.github.io/Car_Servicing_App/",
   },
   {
     id: 3,
