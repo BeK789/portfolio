@@ -158,7 +158,6 @@ export const experiences = [
       "Postman",
       "RESTful APIs",
       "JavaScript",
-      "TypeScript",
       "Node Js",
       "Next Js",
       "MongoDB",
