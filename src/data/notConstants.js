@@ -347,9 +347,9 @@ export const projects = [
       "https://imgs.search.brave.com/I5x_ZOvaCGtO3N759RQ4OT6VT9GJBzFo4HrW0CcfLIo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nY2ZsZWFybmZy/ZWUub3JnL2NvbnRl/bnQvNTVlMDczMGM3/ZGQ0ODE3NDMzMWY1/MTY0XzAxXzE3XzIw/MTQvd2hhdGlzYWNv/bXB1dGVyX2xhcHRv/cF9jb21wdXRlcnMu/anBn",
     tags: [
       "Flutter",
-      "CSS",
+      "Providers",
+      "http",
       "RESTful APIs",
-      "JavaScript",
       "Figma"
     ],
     category: "mobile app",
